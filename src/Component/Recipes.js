@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import {Col, Container} from "react-bootstrap";
+import { Container} from "react-bootstrap";
 
 const Recipes = ({ data }) => {
   return (

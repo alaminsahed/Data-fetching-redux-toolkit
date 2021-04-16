@@ -9,10 +9,11 @@ const Recipe = () => {
   const data = useSelector((state) => state.recipes);
 
   const dispatch = useDispatch();
-
+ // destructuring from current state.
   const { recepie } = data;
 
   useEffect(() => {
+    // calling the redux-thunk function.
     dispatch(fecthData());
   }, [dispatch]);
 
@@ -23,13 +24,14 @@ const Recipe = () => {
       ) : data.error ? (
         <p>error</p>
       ) : (
-        <div className="row">
+        //don't forget to import css file.
+        <Row>
         {recepie.map((data, index) => (
-            <div className="col-md-4">
+            <Col md={4}>
             <Recipes data={data}/>
-          </div>
+          </Col>
         ))}
-      </div>
+      </Row>
        
       )
      
