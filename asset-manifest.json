@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Data-fetching-redux-toolkit/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Data-fetching-redux-toolkit/static/js/main.d8ff279c.chunk.js",
+    "main.js.map": "/Data-fetching-redux-toolkit/static/js/main.d8ff279c.chunk.js.map",
+    "runtime-main.js": "/Data-fetching-redux-toolkit/static/js/runtime-main.e7f66105.js",
+    "runtime-main.js.map": "/Data-fetching-redux-toolkit/static/js/runtime-main.e7f66105.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Data-fetching-redux-toolkit/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e95a8910.chunk.js": "/Data-fetching-redux-toolkit/static/js/2.e95a8910.chunk.js",
+    "static/js/2.e95a8910.chunk.js.map": "/Data-fetching-redux-toolkit/static/js/2.e95a8910.chunk.js.map",
+    "static/js/3.a3d2f58c.chunk.js": "/Data-fetching-redux-toolkit/static/js/3.a3d2f58c.chunk.js",
+    "static/js/3.a3d2f58c.chunk.js.map": "/Data-fetching-redux-toolkit/static/js/3.a3d2f58c.chunk.js.map",
+    "index.html": "/Data-fetching-redux-toolkit/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Data-fetching-redux-toolkit/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Data-fetching-redux-toolkit/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e95a8910.chunk.js.LICENSE.txt": "/Data-fetching-redux-toolkit/static/js/2.e95a8910.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7f66105.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e95a8910.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d8ff279c.chunk.js"
+  ]
+}
